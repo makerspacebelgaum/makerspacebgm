@@ -12,7 +12,7 @@ This repo powers our [public-facing website](https://makerspacebgm.in) and house
 ## ✨ About Makerspace Belgaum
 
 Makerspace Belgaum is a **community-driven creative learning centre** that thrives on the philosophy of *“learn by doing”*.  
-We bring together students, artists, scientists, educators, and tinkerers to explore, experiment, collaborate, and innovate through hands-on projects.
+We bring together students, artists, scientists, engineers, innovators, educators, and tinkerers to explore, experiment, collaborate, and innovate through hands-on projects.
 
 ### What You'll Find on the Site:
 - **Curiosity. Creativity. Collaboration.**
